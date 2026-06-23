@@ -1,0 +1,15 @@
+OpenAI được thành lập bởi Sam Altman và Elon Musk vào năm 2015.
+OpenAI phát triển ChatGPT, một mô hình ngôn ngữ lớn phổ biến.
+Microsoft đầu tư 13 tỷ USD vào OpenAI để tăng tốc phát triển AI.
+Google phát triển Gemini, đối thủ cạnh tranh trực tiếp của ChatGPT.
+Google được thành lập bởi Larry Page và Sergey Brin vào năm 1998.
+Google là công ty con của Alphabet Inc., được thành lập vào năm 2015.
+Apple được thành lập bởi Steve Jobs và Steve Wozniak vào năm 1976.
+Apple mua lại Siri vào năm 2010 để tích hợp trợ lý ảo vào iPhone.
+Meta được thành lập bởi Mark Zuckerberg vào năm 2004.
+Meta phát triển LLaMA, dòng mô hình ngôn ngữ lớn mã nguồn mở cạnh tranh với ChatGPT.
+Elon Musk rời OpenAI vào năm 2018 do bất đồng về hướng đi.
+Elon Musk thành lập xAI vào năm 2023 để xây dựng đối thủ của OpenAI.
+xAI phát triển Grok, mô hình AI tích hợp trực tiếp trên mạng xã hội X.
+Mạng xã hội X trước đây là Twitter, được Elon Musk mua lại vào năm 2022.
+Microsoft được thành lập bởi Bill Gates và Paul Allen vào năm 1975.
